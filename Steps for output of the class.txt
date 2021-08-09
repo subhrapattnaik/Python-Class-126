@@ -1,0 +1,38 @@
+Step1:
+open vsc-class125 -and run app.py
+python app.py
+
+step2:
+check the url
+observe the port number(ex 5000) in my case
+
+
+step3:open cmd (from the folder where ngrok is there)
+ngrok http 5000(it should be the same port no where app.py is running)
+
+step4:
+here in ngrok ,you can see http and https urls
+
+copy the https........io url
+
+step5:
+put it in Camera.js in fetch(url)
+
+step6:
+install the libraries
+permissions 
+expo-image-picker
+
+
+
+step7
+expo start
+
+
+run in web
+later run in tunnel
+scan it in mobile and uoload any image from your device
+
+step8:
+
+you can run the class code in snack only,but check in                                                                                                                                                                                                                                                                           
