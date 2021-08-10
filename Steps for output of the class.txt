@@ -20,8 +20,8 @@ put it in Camera.js in fetch(url)
 
 step6:
 install the libraries
-permissions 
-expo-image-picker
+expo install expo-permissions 
+expo install expo-image-picker
 
 
 
